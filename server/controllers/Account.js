@@ -51,6 +51,7 @@ const signup = async (req, res) => {
   }
 };
 
+// module exports
 module.exports = {
   loginPage,
   signupPage,
